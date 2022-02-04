@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @harsh9320
+- 👋 Hi, I’m Harsh Singh
 - 👀 I’m interested in exploring the World in terms of Data 
-- 🌱 I’m currently learning Data science 
+- 🌱 I’m currently learning Data science and exploring  new capabilities of Techmology
 
 
 
